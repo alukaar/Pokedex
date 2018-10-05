@@ -1,0 +1,14 @@
+-------------Requerimientos Pokedex--------------
+
+Requerimientos Funcionales:
+
+1.- Se puede buscar (Por #Numero de Pokedex, Nombre de Pokemon, Tipos de Pokemon).
+2.- Tendrá opciones de idiomas (Español-Ingles).
+3.- Podrá configurase para cambiar los colores de los Pokemon (Normal o Shiny).
+4.- Existirá un filtro para mostrar Pokemon Singulares o Legendarios.
+5.- Cada Pokemon contará con una imagen que al hacer clic dará el característico sonido de su Pokemon.
+6.- Se deberá manejar con Mouse o Teclado.
+7.- Debe contar con la opción de añadir Pokemon a favoritos.
+8.- Contara con un ranking sobre los mejores Pokemon Competitivos.
+9.- Tendrá un ranking de los mejores Jugadores Competitivos.
+10.- Deberá poder cerrarse desde un botón llamado salir o exit.
